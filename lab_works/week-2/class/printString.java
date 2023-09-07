@@ -3,6 +3,6 @@ class printString{
         char a = 'r';
         char b = 't';
         System.out.println("result = ");
-        System.out.println(a+b); //adds the ascii values doesnt concactinate
+        System.out.println(a+b);
     }
 }
