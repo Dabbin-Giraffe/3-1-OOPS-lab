@@ -77,6 +77,7 @@ class primitiveUse {
         return area;
     }
 
+
     public static void main(String[] args) {
         // Age method
         short born = 1999, current = 2023;
