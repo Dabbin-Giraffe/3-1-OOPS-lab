@@ -10,7 +10,7 @@ public class NumberCalculator {
     { 
         this.Numbers = Numbers;
     }
-
+    
 
     //Method to calculate mean
 
