@@ -34,7 +34,7 @@ class Calculator{
 
 	Calculator(double a,double b){
 		double answer = this.add_double(a,b);
-		this.display_result("Result Subtract",3);
+		this.display_result("Result Add : ",3);
 		System.out.println(answer);
 
 		double answer_sub = this.sub_double(a,b);
