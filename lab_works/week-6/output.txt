@@ -1,0 +1,53 @@
+shashank@shashank-IdeaPad-Flex-3-11IGL05:~/mahindra-folders/semester5/OOP/3-1-OOPS-lab/lab_works/week-6$ java student_data
+Student Id : 
+1
+Student Name : LaughingFox
+Student email is : laughingfox@gmail.com
+Student GPA is : 
+9.8
+
+Student Id : 
+2
+Student Name : CryingFox
+Student email is : cryingfox@gmail.com
+Student GPA is : 
+1.2
+
+Student Id : 
+3
+Student Name : PotatoFox
+Student email is : potatofox@gmail.com
+Student GPA is : 
+5.0
+
+Student Id : 
+4
+Student Name : EmoFox
+Student email is : emofox@gmail.com
+Student GPA is : 
+7.8
+
+[Student@681a9515, Student@3af49f1c, Student@19469ea2, Student@13221655]
+Student@3af49f1c
+Average GPA : 
+5.95
+Student Id : 
+1
+Student Name : LaughingFox
+Student email is : laughingfox@gmail.com
+Student GPA is : 
+9.8
+
+Student Id : 
+2
+Student Name : CryingFox
+Student email is : cryingfox@gmail.com
+Student GPA is : 
+1.2
+
+Student Id : 
+4
+Student Name : EmoFox
+Student email is : emofox@gmail.com
+Student GPA is : 
+7.8

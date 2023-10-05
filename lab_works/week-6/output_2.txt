@@ -1,0 +1,24 @@
+Last login: Fri Sep 29 22:51:11 on ttys000
+rahulreddy@Rahul-Reddys-MacBook-Pro ~ % >....                                   
+Student email is : aku@gmail.com
+Student GPA is :
+1.2
+
+Student Id :
+3
+Student Name : rohanreddy
+Student email is : roh@gmail.com
+Student GPA is :
+5.0
+
+Student Id :
+4
+Student Name : pavanpola
+Student email is : pavan@gmail.com
+Student GPA is :
+7.8
+
+[Student@5d3411d, Student@2471cca7, Student@5fe5c6f, Student@6979e8cb]
+Student@2471cca7
+Average GPA :
+5.95
