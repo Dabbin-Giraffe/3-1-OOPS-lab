@@ -1,0 +1,36 @@
+Abstract Class output
+
+shashank@shashank-IdeaPad-Flex-3-11IGL05:~/mahindra-folders/semester5/OOP/3-1-OOPS-lab/lab_works/week-8$ javac vms.java
+shashank@shashank-IdeaPad-Flex-3-11IGL05:~/mahindra-folders/semester5/OOP/3-1-OOPS-lab/lab_works/week-8$ java vms
+<<------------------------Bike thing----------------------------->>
+Mileage : 25.69
+tank cap : 22.67
+max speed : 220
+Model : potato Bike
+helmet : true
+<<------------------------Car thing----------------------------->>
+Mileage : 69.69
+tank cap : 27.0
+Wheels : 4
+max speed : 5000
+Model : potato Car
+Passengers : 4
+
+Interface implementation
+
+shashank@shashank-IdeaPad-Flex-3-11IGL05:~/mahindra-folders/semester5/OOP/3-1-OOPS-lab/lab_works/week-8/question2$ javac vms_interface.java
+shashank@shashank-IdeaPad-Flex-3-11IGL05:~/mahindra-folders/semester5/OOP/3-1-OOPS-lab/lab_works/week-8/question2$ java vms_interface
+<<------------------------Bike thing----------------------------->>
+Mileage : 25.69
+tank cap : 22.67
+Wheels : 2
+max speed : 220
+Model : potato Bike
+helmet : true
+<<------------------------Car thing----------------------------->>
+Mileage : 69.69
+tank cap : 27.0
+Wheels : 4
+max speed : 5000
+Model : potato Car
+Passengers : 5

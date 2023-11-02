@@ -1,0 +1,30 @@
+Interface
+
+Mileage : 21.0
+tank cap : 20.2
+Wheels : 2
+max speed : 450
+Model : Big Bike
+helmet : true
+Mileage : 2.9
+tank cap : 21.0
+Wheels : 4
+max speed : 50
+Model : Big car
+Passengers : 7
+
+
+Abstract
+
+Mileage : 21.0
+tank cap : 20.2
+Wheels : 2
+max speed : 450
+Model : Big Bike
+helmet : true
+Mileage : 2.9
+tank cap : 21.0
+Wheels : 4
+max speed : 50
+Model : Big car
+Passengers : 7
