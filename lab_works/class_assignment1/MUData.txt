@@ -1,0 +1,11 @@
+Employee Name: emp1
+Basic Salary: 12000.0
+Allowances: 2000.0
+Gross Salary: 14000.0
+Employee Name: emp2
+Basic Salary: 14000.0
+Allowances: 100.0
+Gross Salary: 14100.0
+Student Name: stud1
+Current Year: 2
+Total Marks: 199
