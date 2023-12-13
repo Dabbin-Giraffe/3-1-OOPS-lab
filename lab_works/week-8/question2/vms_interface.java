@@ -19,8 +19,6 @@ class Bike implements VehicleSystem{
 	private boolean helmet;
 	private int passengers = 2;
 	private int wheels;
-
-
 	private double mileage;
 	private double tank_cap;
 	private int max_speed;

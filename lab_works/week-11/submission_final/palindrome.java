@@ -1,5 +1,3 @@
-import java.nio.Buffer;
-
 class Checker{
     public boolean palindrome_checker_string(String str1){
         if(str1 == null){return false;}
